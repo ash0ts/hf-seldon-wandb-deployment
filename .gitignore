@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+wandb
+artifacts
+results
+gpt2-netflix-model
+triton_models
