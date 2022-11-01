@@ -1,0 +1,1 @@
+docker run --rm -it -v hf_volume:/project --entrypoint bash bash:latest
